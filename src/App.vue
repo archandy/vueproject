@@ -1,20 +1,18 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <img alt="Vue logo" src="./assets/logo.png" />
   <div>
     <h4>My item</h4>
-    <p> item detail </p>
+    <p>item detail</p>
     <h4>My item</h4>
-    <p> item detail </p>
+    <p>item test</p>
   </div>
 </template>
 
 <script>
-
 export default {
-  name: 'App',
-  components: {
-    }
-}
+  name: "App",
+  components: {},
+};
 </script>
 
 <style>
